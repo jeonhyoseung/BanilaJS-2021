@@ -1,16 +1,14 @@
-/* String
+//String 
 const what = "Nicolas"
 console.log(what);
-*/
-/*
-Boolean 
+
+
+//Boolean 
 const wat = true;
-*/
-/*
-Number 
+
+//Number 
 const wat = 123123;
-*/
+
 
 // Float
 const wat = 55.1;
-a
