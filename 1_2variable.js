@@ -12,4 +12,4 @@ console.log(a / b);
 console.log(a + b);
 
 const veryLongVariableName = "nico";
-console.log("Hello" + veryLongVariableName);//
+console.log("Hello" + veryLongVariableName); /
