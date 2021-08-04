@@ -23,7 +23,7 @@ const player = {
 console.log(player);
 console.log(player.name);
 console.log(player["name"]); // 같은 표현
-player.name
+player.nameV 
 console.log(player.points);
 player.points =player.points + 15; 
 console.log(player.points);
