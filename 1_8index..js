@@ -7,4 +7,5 @@ const wat = true;
 const wat = 123123;
 // Float
 const wat = 55.1;
+const wat = 22.1;
 ///
